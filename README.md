@@ -1,1 +1,2 @@
-# Sign_Language_Detection
+# SignLanguageDetectionUsingML
+SignLanguageDetectionUsingML
